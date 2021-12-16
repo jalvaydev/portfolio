@@ -1,6 +1,6 @@
 export default function Skills() {
   return (
-    <div>
+    <div id="skills">
       <div className="mx-auto max-w-prose">
         <div className="px-4 mt-20">
           <div className="text-3xl subpixel-antialiased font-medium text-gray-900 ">

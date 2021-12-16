@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="flex justify-between px-4 pt-4 pb-1">
-      <a href="/">
+      <a href="#about">
         <div className="px-2 py-1 border-2 border-blue-600 border-solid hover:cursor-pointer">
           <p className="text-lg subpixel-antialiased font-medium text-blue-600 uppercase">
             jalvay.dev

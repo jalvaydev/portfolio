@@ -5,7 +5,7 @@ export default function Greeting() {
   };
 
   return (
-    <div className="mx-auto max-w-prose">
+    <div id="about" className="mx-auto max-w-prose">
       <div className="px-4 mt-20">
         <div className="text-4xl subpixel-antialiased font-medium text-gray-900 ">
           {greeting.title}
