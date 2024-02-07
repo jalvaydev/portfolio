@@ -49,7 +49,7 @@ export default function Home() {
 
           <div className="max-w-prose flex flex-col gap-5 ">
             <div className="">
-              <div className="flex justify-between">
+              <div className="flex lg:flex-row flex-col justify-between">
                 <p className="font-bold">Ideagen</p>
                 <p className="font-semibold ">Junior Developer</p>
                 <p className="font-semibold">10/2022 - 07/2023</p>
@@ -73,7 +73,7 @@ export default function Home() {
               </div>
             </div>
             <div>
-              <div className="flex justify-between">
+              <div className="flex justify-between lg:flex-row flex-col">
                 <div className="font-bold">ProcessMAP</div>
                 <div className="font-semibold ">Junior Developer</div>
                 <div className="font-semibold">08/2021 - 10/2022</div>
@@ -114,7 +114,7 @@ export default function Home() {
             <p className="text-xl font-bold">Education</p>
             <div className="max-w-prose flex flex-col gap-5 ">
               <div className="">
-                <div className="flex justify-between">
+                <div className="flex justify-between lg:flex-row flex-col">
                   <p className="font-bold ">
                     Bachelor of Art (B.A.), Computer Science
                   </p>
